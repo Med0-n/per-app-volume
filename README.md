@@ -5,7 +5,7 @@
 **A modern GNOME Shell extension to control each app's volume directly from the panel.**
 
 ![GNOME Shell](https://img.shields.io/badge/GNOME_Shell-45%2B-blue?style=flat-square&logo=gnome)
-![License](https://img.shields.io/github/license/TON_USERNAME/per-app-volume?style=flat-square)
+![License](https://img.shields.io/github/license/med0-n/per-app-volume?style=flat-square)
 ![Version](https://img.shields.io/badge/version-1.0-green?style=flat-square)
 
 </div>
