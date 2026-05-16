@@ -41,6 +41,7 @@ cp -r "per-app-volume/per-app-volume@gcampax.github.com" \
 # Log out and log back in, then enable
 gnome-extensions enable per-app-volume@gcampax.github.com
 ```
+Or enable from the gnome extentions app.
 
 ### From GNOME Extensions website
 > Coming soon on [extensions.gnome.org](https://extensions.gnome.org/extension/10002/per-app-volume/)
