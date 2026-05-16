@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="screenshots/main.png" width="420" alt="Per App Volume screenshot"/>
-
 # 🎚️ Per App Volume
 
 **A modern GNOME Shell extension to control each app's volume directly from the panel.**
