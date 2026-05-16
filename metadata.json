@@ -1,0 +1,11 @@
+{
+  "name": "Per App Volume",
+  "description": "Control the volume of each application directly from the GNOME panel, without opening settings.",
+  "uuid": "per-app-volume@gcampax.github.com",
+  "shell-version": ["45", "46", "47", "48"],
+  "version": 1,
+  "url": "https://github.com/med0-n/per-app-volume",
+  "settings-schema": "",
+  "gettext-domain": "per-app-volume"
+}
+

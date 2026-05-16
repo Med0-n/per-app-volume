@@ -1,0 +1,144 @@
+.perapp-panel {
+    background-gradient-direction: vertical;
+    background-gradient-start: rgba(40, 42, 54, 0.55);
+    background-gradient-end: rgba(20, 22, 30, 0.7);
+    background-color: rgba(28, 28, 38, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 22px;
+    box-shadow:
+        0 18px 50px rgba(0, 0, 0, 0.55),
+        inset 0 1px 0 rgba(255, 255, 255, 0.2);
+    padding: 14px;
+    min-width: 360px;
+    color: white;
+}
+
+.perapp-header-box {
+    padding: 4px 8px 8px 8px;
+    border-radius: 10px;
+    spacing: 8px;
+    transition-duration: 200ms;
+}
+.perapp-header-box:hover { background-color: rgba(255, 255, 255, 0.06); }
+
+.perapp-header {
+    color: rgba(255, 255, 255, 0.65);
+    font-size: 0.78em;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.perapp-muteall-btn,
+.perapp-mute-btn {
+    border-radius: 99px;
+    padding: 4px;
+    background-color: rgba(255, 255, 255, 0.08);
+    color: rgba(255, 255, 255, 0.85);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    transition-duration: 150ms;
+}
+.perapp-muteall-btn:hover,
+.perapp-mute-btn:hover {
+    background-color: rgba(255, 255, 255, 0.18);
+    color: white;
+}
+.perapp-muteall-btn:active,
+.perapp-mute-btn:active {
+    background-color: rgba(138, 180, 255, 0.3);
+}
+
+.popup-separator-menu-item { margin: 4px 8px; }
+
+.perapp-item {
+    padding: 10px;
+    border-radius: 14px;
+    margin: 3px 0;
+    transition-duration: 200ms;
+}
+.perapp-item:hover {
+    background-gradient-direction: vertical;
+    background-gradient-start: rgba(255, 255, 255, 0.10);
+    background-gradient-end: rgba(255, 255, 255, 0.04);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15);
+}
+
+.perapp-master {
+    background-color: rgba(138, 180, 255, 0.08);
+    border: 1px solid rgba(138, 180, 255, 0.18);
+}
+.perapp-master:hover {
+    background-color: rgba(138, 180, 255, 0.14);
+}
+
+.perapp-row { spacing: 6px; }
+.perapp-top { spacing: 10px; }
+
+.perapp-label {
+    color: rgba(255, 255, 255, 0.95);
+    font-weight: 500;
+    font-size: 0.95em;
+}
+.perapp-label-master {
+    font-weight: 700;
+    color: #b9d2ff;
+}
+.perapp-muted {
+    color: rgba(255, 255, 255, 0.4);
+    font-style: italic;
+}
+
+.perapp-app-icon {
+    color: rgba(255, 255, 255, 0.9);
+    icon-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+}
+
+.perapp-pct {
+    color: rgba(255, 255, 255, 0.55);
+    font-size: 0.82em;
+    font-feature-settings: "tnum";
+    min-width: 42px;
+    text-align: right;
+}
+.perapp-pct-boost {
+    color: #ff6b6b;
+    font-weight: 700;
+}
+
+.perapp-slider {
+    min-width: 200px;
+    height: 18px;
+    -slider-height: 5px;
+    -slider-background-color: rgba(255, 255, 255, 0.15);
+    -slider-border-color: rgba(255, 255, 255, 0.08);
+    -slider-border-width: 1px;
+    -slider-active-background-color: #8ab4ff;
+    -slider-active-border-color: rgba(255, 255, 255, 0.3);
+    -slider-handle-radius: 9px;
+    -slider-handle-border-width: 2px;
+    -slider-handle-border-color: rgba(255, 255, 255, 0.5);
+}
+.perapp-slider-muted {
+    -slider-active-background-color: rgba(255, 255, 255, 0.25);
+}
+
+.perapp-empty {
+    color: rgba(255, 255, 255, 0.45);
+    font-style: italic;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.9em;
+}
+
+.perapp-easter {
+    color: #ff79c6;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 6px;
+    font-size: 1.05em;
+    background-gradient-direction: vertical;
+    background-gradient-start: rgba(255, 121, 198, 0.18);
+    background-gradient-end: rgba(189, 147, 249, 0.12);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 121, 198, 0.35);
+}
