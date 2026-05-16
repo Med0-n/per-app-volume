@@ -43,7 +43,7 @@ gnome-extensions enable per-app-volume@gcampax.github.com
 ```
 
 ### From GNOME Extensions website
-> Coming soon on [extensions.gnome.org](https://extensions.gnome.org)
+> Coming soon on [extensions.gnome.org](https://extensions.gnome.org/extension/10002/per-app-volume/)
 
 ---
 
