@@ -64,16 +64,6 @@ gnome-extensions enable per-app-volume@gcampax.github.com
 ## 🔧 Requirements
 
 - GNOME Shell **45 or later**
-- PipeWire or PulseAudio
-
----
-
-## 🗺️ Roadmap
-
-- [ ] Per-app volume memory (restore on relaunch)
-- [ ] Keyboard shortcuts
-- [ ] GNOME Extensions website release
-- [ ] Settings panel (configurable boost limit, scroll step)
 
 ---
 
