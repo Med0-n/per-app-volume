@@ -32,7 +32,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/TON_USERNAME/per-app-volume.git
+git clone https://github.com/Med0-n/per-app-volume.git
 
 # Copy to GNOME extensions folder
 cp -r "per-app-volume/per-app-volume@gcampax.github.com" \
